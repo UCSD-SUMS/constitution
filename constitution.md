@@ -1,5 +1,5 @@
 ---
-title: 2021-2022 Constitution for the *Society of Undergraduate Mathematics Students*
+title: 2022-2023 Constitution for the *Society of Undergraduate Mathematics Students*
 toc: true
 numbersections: true
 header-includes: |
@@ -41,7 +41,6 @@ Members enjoy the following benefits:
 * Ability to vote in elections.
 * Eligibility to become a staff member or officer.
 * Invitation to team building events.
-* Discounts on merchandise (e.g. mathematics graduation stoles).
 
 To become a member, the Student must:
 
@@ -86,7 +85,15 @@ The President must:
 * Establish a vision for SUMS and strive to achieve it.
 * Oversee all officers and activities.
 * Represent SUMS before the student body and the University.
-* Be the primary point of contact with the University and the Community Advisor.
+* Maintain relations and be the primary point of contact with 
+  * the University,
+  * the Community Advisor,
+  * the Student Success Center under the School of Physical Sciences,
+  * the Financial Operations / Research Administration under the Department of Mathematics,
+  * the Center for Student Involvement, and
+  * other external organizations.
+* Serve on the Student Success Center's Student Council with the Vice President Internal.
+* Oversee SUMS' finances with the Treasurer.
 * Lead the training of new and continuing officers.
 * Check the SUMS email account daily.
 * Organize the creation of and ensure SUMS' adherence to the constitution.
@@ -95,8 +102,11 @@ The President must:
 
 The Vice President Internal must:
 
-* Work with the President on their duties with an emphasis on internal affairs.
-  * Including, but not limited to: the oversight of officers, staff members, meetings, and elections.
+* Work with the President on their duties with an emphasis on internal affairs - including, but not limited to the oversight of
+  * officers, staff members, meetings and elections,
+  * officer and membership applications, and
+  * membership statuses on Discord.
+* Serve on the Student Success Center's Student Council with the President.
 * Assume the President's responsibilities in the President's absence.
 * Check the SUMS email account daily.
 
@@ -104,14 +114,12 @@ The Vice President Internal must:
 
 The Vice President External must:
 
-* Work with the President on their duties with an emphasis on external affairs.
-  * Including, but not limited to: outreach, public relations, and events.
+* Work with the President on their duties with an emphasis on external affairs - including, but not limited to, outreach and public relations.
 * Lead all outreach efforts with students, faculty, staff, other student organizations, and other universities.
 * Manage all mailing lists and email a weekly newsletter during the academic year.
   * Check the SUMS email account weekly for opportunities to include in the newsletter.
-* Lead all member and volunteer efforts.
-  * Make and distribute event volunteer sheets.
-* Coordinate with the Events Chair, Publicity Chair, and Tech Chair to plan and publicize events.
+* Lead all publicity efforts in coordination with the Events Chair, Workshops Chair, Publicity Chair, and Tech Chair.
+  * Work with the Student Success Center to publicize big events.
 
 ### Secretary
 
@@ -129,7 +137,9 @@ The Secretary must:
 The Treasurer must:
 
 * Manage SUMS' finances, including the petty cash fund (see [Petty Cash](#petty-cash)).
-* Lead the completion of all funding requests and event reimbursements.
+* Provide a weekly report on finances in the SUMS Discord channel and board meetings.
+* Lead the completion of all event reimbursements.
+* Assist the Events Chair in making purchases for events.
 * Archive all receipts and invoices.
 * Lead fundraisers and merchandise sales.
 
@@ -140,17 +150,17 @@ The Events Chair must:
 * Lead the planning and execution of all events.
   * Establish a balance between academic, professional, and social events.
 * Chair events planning meetings.
-* Lead the completion of room reservations, food orders, Triton Activities Planners (TAPs), and Post Event Evaluation Forms (PEEFs).
-* Assist the Vice President External with event volunteer sheets.
-* Assist the Treasurer with fundraiser logistics.
+* Lead the completion of room reservations, food orders, and relevant event forms.
+* Coordinate with the Secretary on scheduling the events.
 
 ### Workshops Chair
 
 The Workshops Chair must:
 
 * Organize all workshops as a presenter or as a host to another presenter.
-* If an Integration is scheduled, lead the creation of Integration Bee integrals and solutions.
-* Assist the Events Chair with workshop logistics.
+* Regularly monitor Lightning Talk signups, and lead the planning and execution of Lightning Talks.
+* If an Integration Bee is scheduled, lead the creation of Integration Bee integrals and solutions.
+* Coordinate with the Secretary on scheduling the events.
 
 ### Publicity Chair
 
@@ -322,16 +332,16 @@ SUMS will maintain a petty cash fund.
 Petty cash is obtained via profits from fundraisers.
 Petty cash will only be spent on items for the benefit of SUMS and will not be spent for personal use.
 
-Management of petty cash will be done by mutual agreement of the President, Vice President Internal, and Treasurer.
+Management of petty cash will be done by mutual agreement of the President and Treasurer.
 
 The Treasurer may carry a portion of petty cash for the convenience of SUMS expenditures.
-The remaining petty must cash must be held securely by the Community Advisor or within a SUMS bank account controlled jointly by the President and Treasurer.
+The remaining petty must cash must be held within the SUMS bank account controlled jointly by the President and Treasurer.
 
 The Treasurer must maintain a petty cash ledger that tracks all deposits and withdrawals.
-At each board meeting, the Treasurer must state the current amounts held by the Treasurer, Community Advisor, and bank account.
+At each board meeting, the Treasurer must state the current amounts held by the Treasurer and bank account.
 The Treasurer must present an updated ledger at every board meeting and advisor meeting and send a copy of the ledger to the Community Advisor on a weekly basis.
 
-All petty cash withdrawals must be approved by at least two of the following officers: the President, the Vice President Internal, the Treasurer.
+All petty cash withdrawals must be approved by the President and the Treasurer.
 
 # Email Correspondence
 

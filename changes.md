@@ -38,3 +38,16 @@ title: Summary of Changes to the SUMS Constitution
 * Simplify petty fund sources to fundraising which can be considered encompassing.
 * Revise petty cash holding procedures to account for optional bank account.
 * Remove physical withdrawal limitation, physical withdrawals permitted as long as approved by at least two of the relevant officers.
+
+# V4
+
+* Remove membership discount.
+* Clarify the President's financial responsibilities.
+* Clarify the President's duties towards the Student Success Center.
+* Integrate Discord duties into the constitution.
+* Add VP Internal duties towards the Student Success Center.
+* Clarify VP External duties.
+* Add reporting to Treasurer's duties.
+* Remove excess form details from Event Chair's duties.
+* Clarify Workshops Chair's duties.
+* Modify petty cash management.
