@@ -1,4 +1,4 @@
----
+ ---
 title: 2022-2023 Constitution for the *Society of Undergraduate Mathematics Students*
 toc: true
 numbersections: true
@@ -106,7 +106,6 @@ The Vice President Internal must:
   * officers, staff members, meetings and elections,
   * officer and membership applications, and
   * membership statuses on Discord.
-* Serve on the Student Success Center's Student Council with the President.
 * Assume the President's responsibilities in the President's absence.
 * Check the SUMS email account daily.
 
@@ -120,6 +119,7 @@ The Vice President External must:
   * Check the SUMS email account weekly for opportunities to include in the newsletter.
 * Lead all publicity efforts in coordination with the Events Chair, Workshops Chair, Publicity Chair, and Tech Chair.
   * Work with the Student Success Center to publicize big events.
+* Serve on the Student Success Center's Student Council with the President.
 
 ### Secretary
 
