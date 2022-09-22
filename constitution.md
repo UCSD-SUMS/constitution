@@ -274,7 +274,7 @@ Attendance is open to the public but mandatory for current officers.
 Only registered UC San Diego students may vote in elections for the selection of the organization's officer. 
 An eligible voter may only vote if they are physically present at the election.
 
-The following requirements need to be fulfilled to be eligible to run for office:
+The following requirements are needed to be eligible to run for office:
 
 * Only registered UC San Diego students may hold office in the organization. 
 * Be a current member of SUMS or have met member requirements by the time of the election.
