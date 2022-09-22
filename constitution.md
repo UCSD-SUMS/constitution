@@ -271,12 +271,12 @@ The President will appoint principal members from the members of the Board.
 # Officer Elections
 
 Attendance is open to the public but mandatory for current officers.
-Only registered UCSD undergraduate students may vote in the SUMS' officer election.
+Only registered UC San Diego students may vote in elections for the selection of the organization's officer. 
 An eligible voter may only vote if they are physically present at the election.
 
-To be eligible to run for office, a person must:
+The following requirements need to be fulfilled to be eligible to run for office:
 
-* Be a registered UCSD undergraduate student.
+* Only registered UC San Diego students may hold office in the organization. 
 * Be a current member of SUMS or have met member requirements by the time of the election.
 
 ## Additional Requirements
